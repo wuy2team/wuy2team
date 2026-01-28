@@ -1,4 +1,10 @@
 <div align="center">
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=wuy2team&show_icons=true&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuy2team&layout=compact" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=H%C3%A0%20%C4%90%E1%BB%A9c%20Huy&fontSize=40&fontAlignY=60&color=0:020617,100:111827&fontColor=ffffff" />
 
