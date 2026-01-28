@@ -1,8 +1,10 @@
 <div align="center">
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=wuy2team&show_icons=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuy2team&layout=compact" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuy2team&layout=compact&theme=github_dark&hide=html,css" />
+</div>
+
 
 </div>
 
@@ -16,7 +18,7 @@
 <a href="https://www.facebook.com/hellohuyduc">
   <img src="https://img.shields.io/badge/FACEBOOK-111827?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://github.com/HuyDucTech">
+<a href="https://github.com/wuy2team">
   <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
